@@ -1,6 +1,3 @@
-# test2
-test1
-1. test de mon projet
 # Mon projet
 Ce projet est une application de reconnaissance faciale.
 
